@@ -1,0 +1,5 @@
+{
+    // should not be validated!
+    // these filenames just happen to match the files that need
+    // to be validated in the root
+}
