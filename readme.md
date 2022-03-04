@@ -18,5 +18,5 @@ Uses the vs code feature to map json schemas to a file inside the root:
 ]
 ```
 
-[Mapping to a schema in the workspace#](https://code.visualstudio.com/docs/languages/json#_mapping-to-a-schema-in-the-workspace)
+[Mapping to a schema in the workspace](https://code.visualstudio.com/docs/languages/json#_mapping-to-a-schema-in-the-workspace)
 
