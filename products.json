@@ -1,0 +1,27 @@
+[
+    {
+        "productId": 0,
+        "productName": "aaa",
+        "price": 0,
+
+        "tags": ["aa", "bb", "cc", "aa"]
+    },
+
+    {
+        "productId": 1,
+        "productName": "bbb",
+        "price": 0,
+
+        "tags": ["dd", "ee", "ff", "dd"]
+    },
+
+    {
+        "price": "dog"
+    },
+
+    {
+        "productName": "ccc",
+        "price": 0,
+        "tags": [12]
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "json.schemas":
+    [
+        {
+            "fileMatch": ["./products.json", "./products.jsonc"],
+            "url": "./products.schema.json"
+        }
+    ]
+}
